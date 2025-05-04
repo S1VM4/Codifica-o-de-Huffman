@@ -17,13 +17,6 @@ Este projeto implementa a **Codificação de Huffman** para compressão e descom
 
 - **Impressão da árvore de Huffman** (visualização em forma de árvore com indentação).
 
-## Como usar
-
-Execute o script e insira o texto desejado quando solicitado:
-
-```bash
-python huffman.py
-```
 
 ### Exemplo de saída:
 
