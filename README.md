@@ -78,7 +78,3 @@ Ganho de espaço: 45.00%
 - `huffman_decoder(encoded_text, codes)`: decodifica o texto.
 - `huffman_stats(original_text, encoded_text)`: calcula taxa e ganho de compressão.
 - `print_huffman_tree(node)`: imprime a árvore de Huffman.
-
-## Licença
-
-Este projeto é de uso livre para fins educacionais.
