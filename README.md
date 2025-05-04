@@ -1,4 +1,4 @@
- Huffman Coding em Python
+📦 Huffman Coding em Python
 Este projeto implementa a Codificação de Huffman em Python, permitindo a compressão e descompressão de textos via terminal. Ele também exibe o dicionário de códigos binários, calcula estatísticas de compressão e imprime a estrutura da árvore de Huffman.
 
 ✅ Funcionalidades
